@@ -37,5 +37,6 @@ void loop() {
     myservo.write(pos);              // tell servo to go to position in variable 'pos'
     delay(10);                       // waits 10ms for the servo to reach the position
   }
+  
 }
 
